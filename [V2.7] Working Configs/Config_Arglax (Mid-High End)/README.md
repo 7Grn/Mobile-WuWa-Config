@@ -7,6 +7,8 @@ Config_1 - Highest quality of all, especially reflections
 Config_2 - Compatibility Config in case Config_1 does not work well  
 Config_3 - Reflection and View Distance Quality Reduced, most optimized for mobile config  
 
+*When in doubt, use Config_3*
+
 
 *This is being further tested by users in the Discord channel.*  
 So far, there are no new issues reported.  
