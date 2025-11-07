@@ -1,7 +1,7 @@
 # ⚙️ Device Performance Guide  
 
 
-## 🔹 Recommended Configuration
+## 🔹 Recommended Configuration : Use Config_1  or Config_Adie
 
 | Qualcomm Snapdragon | MediaTek Dimensity |
 |----------------------|--------------------|
@@ -10,19 +10,16 @@
 
 ---
 
-## 🔸 Minimum for Mid–High Configuration
+## 🔸 Minimum for Mid–High Configuration : Use Config_1  or Config_2
 
 | Qualcomm Snapdragon | MediaTek Dimensity |
 |----------------------|--------------------|
 | Snapdragon **780G** | Dimensity **7030** |
 | Snapdragon **7s Gen 2** | Dimensity **1080** |
 
-
-
-
 ---
 
-## 🔸 Recommended for Low–End Configuration
+## 🔸 Recommended for Low–End Configuration : Use Config_3  or LowEnd
 
 | Qualcomm Snapdragon | MediaTek Dimensity |
 |----------------------|--------------------|
@@ -34,3 +31,4 @@
 > ⚠️ **Note:**  
 > The chipsets listed above are **theoretical estimates** based on performance benchmarks and field testing.  
 > This document will be **updated periodically** as new data becomes available.
+
