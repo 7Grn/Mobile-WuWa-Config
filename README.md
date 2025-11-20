@@ -2,6 +2,9 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Recent Changes:  
+## November 21, 2025  
+> *Added a new video tutorial on how to apply config using PC-Mobile set up*  
+> *https://github.com/Arglax/Mobile-WuWa-Config/blob/main/Config_PC_Tutorial.mp4*  
 ## November 20, 2025  
 > *Updated V2.7 Configs to work with V2.8*
 ## November 11, 2025  
@@ -54,6 +57,7 @@ Crafted by **Arglax**, this guide will help you unlock your device’s full visu
 ---
 <a id="how-to-install"></a>
 ## 🛠️ How to Install (Beginner Friendly)
+You can view video tutorial here: https://github.com/Arglax/Mobile-WuWa-Config/blob/main/Config_PC_Tutorial.mp4
 
 ### ✅ Requirements:
 - A **Windows PC or laptop**
