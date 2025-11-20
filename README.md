@@ -72,7 +72,7 @@ Crafted by **Arglax**, this guide will help you unlock your device’s full visu
 <details>
 <summary>📂 File Location Path</summary>
 <a id="file-location"></a>
-To access or modify configuration files for **Wuthering Waves**, navigate to the following folder on your Android device:
+To access or modify configuration files for *Wuthering Waves*, navigate to the following folder of your Android device:
 
 ```
 Internal Storage/
@@ -92,7 +92,13 @@ Internal Storage/
 
 5. Paste the provided:
    - `Engine.ini`
-   - `DeviceProfiles.ini`  
+   - `DeviceProfiles.ini`
+
+The complete path to the correct config folder should look something like this.  
+In this case, the device I used is Poco X6 Pro 5G
+```
+This PC\POCO X6 Pro 5G\Internal shared storage\Android\data\com.kurogame.wutheringwaves.global\files\UE4Game\Client\Client\Saved\Config\Android
+```
 
 > ⚠️ Overwrite existing files if prompted.  
 
