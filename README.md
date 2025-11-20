@@ -2,6 +2,8 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Recent Changes:  
+## November 20, 2025  
+> *Updated V2.7 Configs to work with V2.8*
 ## November 11, 2025  
 > *Added CVars Wiki under Educational Materials Folder* 
 
