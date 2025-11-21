@@ -1,58 +1,62 @@
-This config is for **Android** (and hopefully **iOS**) for **WuWa Game Version 2.7**.
+# Arglax Config Pack — README
 
-Tested on **Poco X6 Pro (`MediaTek 8300 Ultra`)** — provides good graphics quality and smooth performance.  
-- Vulkan is forced in this config via `Engine.ini`
-
-Config_1 - Highest quality of all, especially reflections  
-Config_2 - Compatibility Config in case Config_1 does not work well  
-Config_3 - Reflection and View Distance Quality Reduced, most optimized for mobile config  
-
-*When in doubt, use Config_3*
-
-
-*This is being further tested by users in the Discord channel.*  
-So far, there are no new issues reported.  
+This config set is for **Android** (and hopefully **iOS**) for **WuWa Game Version 2.8**.
 
 ---
 
-### ⚠️ Possible Bugs/Issues:
-1. **Black graphics occurrence** when the app is not focused  
-   - e.g., when using floating windows or taking a native screenshot  
-   *Cause:* Possibly due to forced scalability groups in `DeviceProfiles.ini`.  
-   → **Fix:** Delete `DeviceProfiles.ini` if this occurs.
+## 📁 Config Overview
 
-2. **Heating** is expected, but no overheating (>40°C) observed so far.  
-   *Update (Oct 15, 2025):* Heating only occurs during low battery + mobile data + charging.
+| Config | Description | Best For |
+|-------|-------------|----------|
+| **Config_1** | Highest quality; great visuals | High-end devices |
+| **Config_2** | Alternate variant of Config_1; with some fog  | Users who want some fog lol |
+| **Config_3** | Reduced reflections + softer colors | Users who dislike heavy reflections |
 
-3. **Black screen flickering/blinking** during game loading screens.  
-   - scalability groups is most likely the culprit, but in-game is stable.  
-   → **Fix:** Same as Issue #1 — delete `DeviceProfiles.ini`.
+**When unsure, choose `Config_1`.**
 
 ---
 
-### 🧩 Before Troubleshooting
+## 📱 Device Tier Recommendations
+
+### 🔥 High-End Flagships
+| Chipsets | Recommended Config | Notes |
+|---------|--------------------|-------|
+| **Dimensity 9000 / 9200 / 9300 series**<br>**Snapdragon 8 Gen 1 / Gen 2 / Gen 3 / Gen 4** | **Config_1 @ Ultra Quality** | Smooth performance, top visuals |
+
+### ⚡ Upper Mid-Range Devices
+| Chipsets | Recommended Config | Notes |
+|----------|--------------------|-------|
+| **Dimensity 8000 / 8200 / 8300 series**<br>**Snapdragon 7+ Gen 2 / 7 Gen 3 / 8 Gen 1 Lite tiers** | **Config_1 @ High Quality** | Ultra works but may stutter in crowded areas |
+
+### 🎯 Low-Reflection Preference
+| Use Case | Recommended Config |
+|----------|--------------------|
+| Users who dislike strong reflections | **Config_3** |
+
+---
+
+## ⚠️ Known Issues & Notes
+
+| Issue | Cause | Fix |
+|-------|--------|-----|
+| **Heating during long play** | Battery + mobile data + charging combo | Normal; no overheating (>40°C) reported |
+| **Black screen flicker during loading** | Scalability groups | Same fix as Issue #1 |
+
+---
+
+## 🧩 Before Troubleshooting
 Please read **`Standard Testing Protocols.md`** first.
 
 ---
 
-### 🔧 [Troubleshooting]
+## 🔧 Troubleshooting Steps
 
-If your device crashes, follow these steps:
+| Step | Action | File |
+|------|--------|------|
+| 1 | Disable Vulkan forcing | `Engine.ini` / `DeviceProfiles.ini` |
+| 2 | Test with Engine.ini only | Delete `DeviceProfiles.ini` | |
+| 3 | Try community or older configs | Check relevant folders | |
+| 4 | Ask for help | Discord → **issues/config-help** | |
+| 5 | If all fails | Stop using config files | |
 
-1. Disable **Vulkan forcing**  
-   - Edit your `Engine.ini` or `DeviceProfiles.ini` (see the commented lines).
-
-2. Disable **frame generation**  
-   - Set **`r.AFME.Enable = 0`** in your `Engine.ini`.
-
-3. Edit your `DeviceProfiles.ini`  
-   - Switch from `"Android_VeryHigh"` to `"Android"` profile.
-
-4. Delete `DeviceProfiles.ini` to test with `Engine.ini` only.
-
-5. Try configs from **Community Configs** or **Old Configs** folders.
-
-6. Join the **Discord server** → Ask in **issues/config-help** channel.
-
-7. If all else fails → **Stop using config files**.
-
+---
