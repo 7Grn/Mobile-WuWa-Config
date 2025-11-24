@@ -2,6 +2,9 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Recent Changes:  
+## November 24, 2025
+> Optimized cvars in Config_Arglax Folder for better performance.  
+> Also balanced reflections to make it more natural and realistic  
 ## New, Small Tutorial Videos on YouTube  
 > https://www.youtube.com/playlist?list=PLn_0LF2KcH65tQ-RoqrgS25wqxV8ZTbfG
 ## November 21, 2025  
