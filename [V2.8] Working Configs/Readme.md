@@ -1,7 +1,7 @@
 # ⚙️ Device Performance Guide  
 
 
-## 🔹 Recommended Configuration : Use Config_1  or Config_Adie
+## 🔹 Recommended Configuration : Use Config_1
 
 | Qualcomm Snapdragon | MediaTek Dimensity |
 |----------------------|--------------------|
@@ -31,4 +31,5 @@
 > ⚠️ **Note:**  
 > The chipsets listed above are **theoretical estimates** based on performance benchmarks and field testing.  
 > This document will be **updated periodically** as new data becomes available.
+
 
