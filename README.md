@@ -2,6 +2,8 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Recent Changes:  
+## November 25, 2025
+> Removed a Community Config  
 ## November 24, 2025
 > Optimized cvars in Config_Arglax Folder for better performance.  
 > Also balanced reflections to make it more natural and realistic  
