@@ -2,6 +2,9 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Recent Changes:  
+## November 27, 2025
+> Reorganized and renamed folders. Snapdragon and Dimensity DeviceProfiles are now bundled separately.  
+> Further optimized mid to low end configs.  
 ## November 25, 2025
 > Removed a Community Config  
 ## November 24, 2025

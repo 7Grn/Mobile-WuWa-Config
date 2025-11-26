@@ -1,7 +1,7 @@
 # ⚙️ Device Performance Guide  
 
 
-## 🔹 Recommended Configuration : Use Config_1
+## 🔹 Recommended Configuration : Use Config_1 or Config_2
 
 | Qualcomm Snapdragon | MediaTek Dimensity |
 |----------------------|--------------------|

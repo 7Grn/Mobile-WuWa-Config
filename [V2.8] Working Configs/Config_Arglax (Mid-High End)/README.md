@@ -9,7 +9,7 @@ This config set is for **Android** (and hopefully **iOS**) for **WuWa Game Versi
 | Config | Description | Best For |
 |-------|-------------|----------|
 | **Config_1** | Highest quality; great visuals | High-end devices |
-| **Config_2** | Stronger optimization of Config_1  | Users who struggle with Config_1 |
+| **Config_2** | Stronger optimization of Config_1  | Balanced Performance |
 | **Config_3** | Reduced reflections + softer colors | Users who dislike heavy reflections |
 
 **When unsure, choose `Config_2`.**
