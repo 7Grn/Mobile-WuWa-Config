@@ -2,24 +2,8 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Recent Changes:  
-## November 27, 2025
-> Reorganized and renamed folders. Snapdragon and Dimensity DeviceProfiles are now bundled separately.  
-> Further optimized mid to low end configs.  
-## November 25, 2025
-> Removed a Community Config  
-## November 24, 2025
-> Optimized cvars in Config_Arglax Folder for better performance.  
-> Also balanced reflections to make it more natural and realistic  
-## New, Small Tutorial Videos on YouTube  
-> https://www.youtube.com/playlist?list=PLn_0LF2KcH65tQ-RoqrgS25wqxV8ZTbfG
-## November 21, 2025  
-> *Added a new video tutorial on how to apply config using PC-Mobile set up*  
-> *https://github.com/Arglax/Mobile-WuWa-Config/blob/main/Config_PC_Tutorial.mp4*
-> Video moved to https://youtu.be/bB6C8hp_dFQ to conserve github storage
-## November 20, 2025  
-> *Updated V2.7 Configs to work with V2.8*
-## November 11, 2025  
-> *Added CVars Wiki under Educational Materials Folder* 
+# December 1, 2025  
+> Updated Config_Arglax / Config_1
 
 Notes:
 > 🛠️ Users are encouraged to use configs in the *Old Configs* folder if the latest ones are incompatible with their devices.  
