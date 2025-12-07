@@ -10,9 +10,9 @@ This config set is for **Android** (and hopefully **iOS**) for **WuWa Game Versi
 |-------|-------------|----------|
 | **Config_1** | Highest quality; great visuals | High-end devices |
 | **Config_2** | Stronger optimization of Config_1  | Balanced Performance |
-| **Config_3** | Reduced reflections + softer colors | Users who dislike heavy reflections |
+| **Config_3** | Best Performance Optimization | Users who want best performance |
 
-**When unsure, choose `Config_2`.**
+**When unsure, choose `Config_3`.**
 
 ---
 
@@ -28,10 +28,10 @@ This config set is for **Android** (and hopefully **iOS**) for **WuWa Game Versi
 |----------|--------------------|-------|
 | **Dimensity 8000 / 8200 / 8300 series**<br>**Snapdragon 7+ Gen 2 / 7 Gen 3 / 8 Gen 1 Lite tiers** | **Config_1 @ High Quality** | Ultra works but may stutter in crowded areas |
 
-### 🎯 Low-Reflection Preference
+### 🎯 High-Performance Preference
 | Use Case | Recommended Config |
 |----------|--------------------|
-| Users who dislike strong reflections | **Config_3** |
+| Users who prefer best performance | **Config_3** |
 
 ---
 
