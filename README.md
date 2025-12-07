@@ -2,6 +2,10 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Recent Changes:  
+# December 7, 2025  
+> Optimized various configs for better performance  
+> New Config_3 brings way optimizations and better performance  
+
 # December 1, 2025  
 > Updated Config_Arglax / Config_1
 
