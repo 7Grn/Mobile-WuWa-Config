@@ -1,6 +1,10 @@
 
 <h1 align="center">📢 Announcements 📢</h1>
 
+# Notice:
+## V2.8 Configs will be moved to Old Configs when Version 3.0 Launches.  
+> Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.
+
 # Recent Changes:  
 # December 7, 2025  
 > Optimized various configs for better performance  
