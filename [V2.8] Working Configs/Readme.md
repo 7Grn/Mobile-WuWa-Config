@@ -1,3 +1,8 @@
+# This config folder will be moved to Old Configs after the latest one is confirmed stable  
+> I will still provide support for this repos until the end of Version 3.0  
+> We'll fully transition to [V3.x] Working Configs by Version 3.1  
+> Thank you for your support :)
+
 # ⚙️ Device Performance Guide  
 
 ## Possible Bug Notice
