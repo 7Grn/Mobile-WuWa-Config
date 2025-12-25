@@ -2,20 +2,22 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Notice:
-## V2.8 Configs will be moved to Old Configs when Version 3.0 Launches.  
+HAPPY HOLIDAYS!
+
+## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
 > Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.
+> Support for V2.8 Configs will still be available until the end of Version 3.0
+> By Version 3.1, we'll fully transition to the [V3.x] Configs  
+> Thank you for your support :)  
 
 # Recent Changes:  
-# December 7, 2025  
-> Optimized various configs for better performance  
-> New Config_3 brings way optimizations and better performance  
-
-# December 1, 2025  
-> Updated Config_Arglax / Config_1
+# December 25, 2025
+> Updated README.md of [V2.8] Config Folder  
+> Added [V3.x] Config Folder
 
 Notes:
 > 🛠️ Users are encouraged to use configs in the *Old Configs* folder if the latest ones are incompatible with their devices.  
-> 📅 Release target for updating website: **Sometime in November**  
+> 📅 Release target for updating website: **Sometime in 2026**  (I'm replanning this whole thing, hopefully I get the time) 
 > 🎮 It already contains Vulkan and non-Vulkan(OpenGL) settings  
 > You need to have at least Mediatek Dimensity 8200 or Snapdragon 8s Gen 2 to be able to use Mobile Ray-Tracing Configs
 
