@@ -9,8 +9,9 @@ This readme will be updated if the configs are fully functional and working to u
 As of 6:44PM, PHT, the following configs are fully working for Version 3.0  
 1. [V3.x] Working Configs  
 > High-End Config  
-2. [V2.8] Working Configs  
-> All are currently under testing
+> Stable Config  
+2. [V2.8] Working Configs   
+> Config_2 has been ported to V3.x as Stable Config  
 
 
 [![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)](https://buymeacoffee.com/arglaxaqw)
