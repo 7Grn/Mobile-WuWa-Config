@@ -39,7 +39,7 @@ Notes:
 <div align="center">
 
   <img src="https://img.shields.io/badge/Update-Scheduled-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎯_Target_Version-2.6-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Target_Version-3.0-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Support-Vulkan_&_Non--Vulkan-orange?style=for-the-badge&logo=cog&logoColor=white" />
 
 </div>
