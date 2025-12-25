@@ -2,7 +2,19 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Notice:
-HAPPY HOLIDAYS!
+
+## 🎄 Happy Holidays
+
+I will be updating the [V3.x] Config Folder a bit later today due to the festivities of Dec. 25. This readme will be updated if the configs are fully functional and working to use. Thank you for your understanding.  
+
+
+[![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)](https://buymeacoffee.com/arglaxaqw)
+
+**Support Notice**
+
+Donations are 100% optional and *not required* tho will help support my future pulls or skins xD 
+(e.g. Lunite Pass) in **Wuthering Waves**.
+
 
 ## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
 > Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.
@@ -40,7 +52,18 @@ Notes:
 
 **WuWa-Config** is a custom-built set of configuration files designed to **boost graphics, stability, and performance** in *Wuthering Waves* on Android devices.
 
-Crafted by **Arglax**, this guide will help you unlock your device’s full visual and gameplay potential.
+Crafted by **Arglax**, this guide will help you unlock your device’s full visual and gameplay potential.  
+
+## Disclaimer
+
+These configurations are provided "as is", without warranty of any kind.
+Use at your own risk.
+
+I am not responsible for crashes, performance issues, data loss,
+or any consequences arising from the use of these configs.
+
+Donations are voluntary and do not constitute a purchase or service.
+
 
 ---
 
@@ -128,6 +151,14 @@ Join the **Discord** community for support, updates, and discussions:
 Maintained by **Arglax**  
 Optimized for **Mid-end/Flagship Android devices with Vulkan support**
 
+Also giving credits to these entities as I have had config creation learnings through them indirectly and some directly:  
+1. Kuya Thirdy 
+2. Brandy (AlteriaX)  
+3. em00se  
+4. Eggsee  
+5. RGCloud  
+
+
 ---
 
 ## 🔎 Tags (for SEO indexing)
@@ -141,3 +172,6 @@ Optimized for **Mid-end/Flagship Android devices with Vulkan support**
 `arglax tweaks`, `wuwa optimization guide`, `vulkan optimization`, `low-end optimization wuwa`
 
 ---
+
+
+> Support is voluntary and does not affect config availability or updates. I will always do what I can to further optimize and improve our experiences.
