@@ -5,7 +5,8 @@
 
 ## 🎄 Happy Holidays
 
-I will be updating the [V3.x] Config Folder a bit later today due to the festivities of Dec. 25. This readme will be updated if the configs are fully functional and working to use. Thank you for your understanding.  
+I will be updating the [V3.x] Config Folder a bit later today due to the festivities of Dec. 25.   
+This readme will be updated if the configs are fully functional and working to use. Thank you for your understanding.  
 
 
 [![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)](https://buymeacoffee.com/arglaxaqw)
@@ -17,9 +18,9 @@ Donations are 100% optional and *not required* tho will help support my future p
 
 
 ## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
-> Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.
-> Support for V2.8 Configs will still be available until the end of Version 3.0
-> By Version 3.1, we'll fully transition to the [V3.x] Configs  
+> - Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.  
+> - Support for V2.8 Configs will still be available until the end of Version 3.0  
+> - By Version 3.1, we'll fully transition to the [V3.x] Configs  
 > Thank you for your support :)  
 
 # Recent Changes:  
