@@ -10,8 +10,10 @@ As of 6:44PM, PHT, the following configs are fully working for Version 3.0
 1. [V3.x] Working Configs  
 > High-End Config  
 > Stable Config  
+> Potato Config
 2. [V2.8] Working Configs   
 > Config_2 has been ported to V3.x as Stable Config  
+> Config_1 is still working with great graphics, use this over V3.x High-End in the meantime  
 
 
 [![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)](https://buymeacoffee.com/arglaxaqw)
