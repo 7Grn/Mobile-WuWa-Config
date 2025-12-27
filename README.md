@@ -3,20 +3,12 @@
 
 # Notice: 🎄 Happy Holidays
 
-I will be updating the [V3.x] Config Folder a bit later today due to the festivities of Dec. 25.   
-This readme will be updated if the configs are fully functional and working to use. Thank you for your understanding.  
+ALL [V2.8] and [V3.x] Configs are working and functional as of December 27, 2025.  
+[V2.8] Configs will retain their graphic definition.  
+[V3.x] High-End Config is temporarily optimized for performance to compensate for the current problems in the game's mobile optimization.  
+More proper and better optimized configs will be released next week.  
 
-As of 6:44PM, PHT, the following configs are fully working for Version 3.0  
-1. [V3.x] Working Configs  
-> High-End Config  
-> Stable Config  
-> Potato Config
-2. [V2.8] Working Configs   
-> Config_2 has been ported to V3.x as Stable Config  
-> Config_1 is still working with great graphics, use this over V3.x High-End in the meantime  
-
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)](https://buymeacoffee.com/arglaxaqw)
+[![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)]([https://buymeacoffee.com/arglaxaqwv](https://buymeacoffee.com/arglaxaqwv))
 
 **Support Notice**
 
