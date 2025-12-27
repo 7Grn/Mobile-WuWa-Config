@@ -1,7 +1,9 @@
 
 <h1 align="center">📢 Announcements 📢</h1>
 
-# Notice: 🎄 Happy Holidays [![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)]([https://buymeacoffee.com/arglaxaqwv](https://buymeacoffee.com/arglaxaqwv))
+# Notice: 🎄 Happy Holidays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Support Me](https://img.shields.io/badge/Click%20Me-SUPPORT%20ME(Fully%20Optional)-FF3366?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arglaxaqwv)
+
+
 **Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
 ---
 ## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
