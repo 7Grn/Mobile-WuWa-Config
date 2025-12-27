@@ -14,12 +14,12 @@
 ## December 27, 2025
 > Updated Config Selector Guides for [V2.8] and [V.3x]  
 > [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
-> [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)
-Notes:
+> [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
+Notes:  
 > ALL [V2.8] and [V3.x] Configs are working and functional as of December 27, 2025.  
 > [V2.8] Configs will retain their graphic definition.  
 > [V3.x] High-End Config is temporarily optimized for performance to compensate for the current problems in the game's mobile optimization.  
-> More proper and better optimized configs will be released next week.
+> More proper and better optimized configs will be released next week.  
 
 
 # December 25, 2025
