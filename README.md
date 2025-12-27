@@ -1,21 +1,9 @@
 
 <h1 align="center">📢 Announcements 📢</h1>
 
-# Notice: 🎄 Happy Holidays
-
-ALL [V2.8] and [V3.x] Configs are working and functional as of December 27, 2025.  
-[V2.8] Configs will retain their graphic definition.  
-[V3.x] High-End Config is temporarily optimized for performance to compensate for the current problems in the game's mobile optimization.  
-More proper and better optimized configs will be released next week.  
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)]([https://buymeacoffee.com/arglaxaqwv](https://buymeacoffee.com/arglaxaqwv))
-
-**Support Notice**
-
-Donations are 100% optional and *not required* tho will help support my future pulls or skins xD 
-(e.g. Lunite Pass) in **Wuthering Waves**.
-
-
+# Notice: 🎄 Happy Holidays [![Support Me](https://img.shields.io/badge/Support%20Me-(Fully%20Optional)-7B5CFF?style=for-the-badge)]([https://buymeacoffee.com/arglaxaqwv](https://buymeacoffee.com/arglaxaqwv))
+**Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
+---
 ## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
 > - Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.  
 > - Support for V2.8 Configs will still be available until the end of Version 3.0  
@@ -23,6 +11,17 @@ Donations are 100% optional and *not required* tho will help support my future p
 > Thank you for your support :)  
 
 # Recent Changes:  
+## December 27, 2025
+> Updated Config Selector Guides for [V2.8] and [V.3x]  
+> [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
+> [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)
+Notes:
+> ALL [V2.8] and [V3.x] Configs are working and functional as of December 27, 2025.  
+> [V2.8] Configs will retain their graphic definition.  
+> [V3.x] High-End Config is temporarily optimized for performance to compensate for the current problems in the game's mobile optimization.  
+> More proper and better optimized configs will be released next week.
+
+
 # December 25, 2025
 > Updated README.md of [V2.8] Config Folder  
 > Added [V3.x] Config Folder
