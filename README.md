@@ -1,7 +1,7 @@
 
 <h1 align="center">📢 Announcements 📢</h1>
 
-# Notice: 🎄 Happy Holidays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Support Me](https://img.shields.io/badge/Click%20Me-SUPPORT%20ME(Fully%20Optional)-FF3366?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arglaxaqwv)
+# Notice: 🎄 Happy Holidays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Support Me](https://img.shields.io/badge/Click%20Me-SUPPORT%20ME(Fully%20Optional)-FF3366?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arglaxaqwv)
 
 
 **Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
@@ -17,8 +17,8 @@
 > Updated Config Selector Guides for [V2.8] and [V.3x]  
 > [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
 > [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
-Notes:  
-> ALL [V2.8] and [V3.x] Configs are working and functional as of December 27, 2025.  
+> # Notes:  
+> ## ALL [V2.8] and [V3.x] Configs are working and functional as of December 27, 2025.  
 > [V2.8] Configs will retain their graphic definition.  
 > [V3.x] High-End Config is temporarily optimized for performance to compensate for the current problems in the game's mobile optimization.  
 > More proper and better optimized configs will be released next week.  
