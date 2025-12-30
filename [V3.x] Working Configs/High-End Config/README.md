@@ -47,6 +47,20 @@ Lower the value further if needed. There's a guide within the DeviceProfiles.ini
 
 ---
 
+## Device Profile Not Applying?
+
+If your `DeviceProfile` is not being read correctly, open an issue and include:
+- CPU or chipset
+- GPU
+
+If you are unsure, please send your **`Client.log`** instead (Discord preferred).
+
+### Log File Location
+```yaml   
+/Internal shared storage/Android/data/com.kurogame.wutheringwaves.global/files/UE4Game/Client/Client/Saved/Logs
+```
+
+
 ## Notes
 
 - Shader recompilation after updates is normal  
@@ -62,5 +76,6 @@ This repository is actively maintained and subject to change based on:
 - Game updates  
 - Engine behavior changes  
 - Community-reported issues  
+
 
 ---
