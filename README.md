@@ -4,8 +4,9 @@
 # Notice: 🎄 Happy New Year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Support Me](https://img.shields.io/badge/Click%20Me-SUPPORT%20ME(Fully%20Optional)-FF3366?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arglaxaqwv)
 
 
-**Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
+> **Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
 ---
+## Important Note: Both V2.8 and V3.x configs ARE working for the current version  
 ## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
 > - Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.  
 > - Support for V2.8 Configs will still be available until the end of Version 3.0  
