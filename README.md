@@ -1,7 +1,7 @@
 
 <h1 align="center">📢 Announcements 📢</h1>
 
-# Notice: 🎄 Happy Holidays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Support Me](https://img.shields.io/badge/Click%20Me-SUPPORT%20ME(Fully%20Optional)-FF3366?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arglaxaqwv)
+# Notice: 🎄 Happy New Year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Support Me](https://img.shields.io/badge/Click%20Me-SUPPORT%20ME(Fully%20Optional)-FF3366?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arglaxaqwv)
 
 
 **Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
@@ -13,6 +13,8 @@
 > Thank you for your support :)  
 
 # Recent Changes:  
+## December 30, 2025  
+> Updated [V3.x] Configs  
 ## December 27, 2025
 > Updated Config Selector Guides for [V2.8] and [V.3x]  
 > [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
